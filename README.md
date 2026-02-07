@@ -43,8 +43,8 @@
 - Matplotlib
 - Scikit-learn
 - NLTK
-- Streamlit 6
--
+- Streamlit
+
 - ## Installation
 - ### Clone
 ``bash
