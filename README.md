@@ -46,6 +46,6 @@
 - Streamlit
 
 - ## Installation
-- ### Clone
+### Clone
 ``bash
-- git clone https://github.com/16A9DA/Movie-Sentiment
+git clone https://github.com/16A9DA/Movie-Sentiment
