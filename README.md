@@ -34,7 +34,7 @@ In the
 - Allows users to input custom text
 - Makes predictions in real time
 \Gamma
-## ???? Technologies Used
+## Technologies Used
 - **Programming Language:** Python
 
 - **Libraries & Tools:**
