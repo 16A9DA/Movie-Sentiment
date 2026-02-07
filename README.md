@@ -4,7 +4,7 @@
   Movie Sentiment Analysis is a Natural Language Processing project, which categorizes the movie reviews as **Positive** and **Negative** using various techniques and tools of Natural Language Processing, which includes text preprocessing, machine learning, and visualization, along with an interactive platform to predict the sentiment of a given input text by users.
 
 
-##Features
+###Features
 ### Text Cleaning & Preprocessing
 - Noise removal from text data
 
@@ -48,5 +48,5 @@ In the
 -
 - ## Installation
 - ### Clone
-- ``bash
+``bash
 - git clone https://github.com/16A9DA/Movie-Sentiment
