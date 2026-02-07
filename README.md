@@ -29,7 +29,6 @@
 - Performance comparison between models
 
 ### Interactive Application
-In the
 - Streamlit-Based UI
 - Allows users to input custom text
 - Makes predictions in real time
