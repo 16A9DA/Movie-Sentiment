@@ -47,5 +47,5 @@
 
 - ## Installation
 ### Clone
-``bash
+```bash
 git clone https://github.com/16A9DA/Movie-Sentiment
