@@ -49,3 +49,8 @@
 ### Clone
 ```bash
 git clone https://github.com/16A9DA/Movie-Sentiment
+
+
+## License
+ This project is for educational purposes.
+ 
