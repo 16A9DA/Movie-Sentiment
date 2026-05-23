@@ -1,4 +1,4 @@
-# Movie-Sentiment 🎬
+# Movie-Sentiment
 Text Cleaning: Preprocess and normalize text.
 Data Visualization: Explore sentiment distribution and word patterns.
 Modeling: Four ML models for sentiment prediction.
